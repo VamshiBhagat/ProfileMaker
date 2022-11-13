@@ -1,0 +1,9 @@
+com\profile_maker\servlets\RegistrationServlet.class
+com\profile_maker\utils\ConfigLoader.class
+com\profile_maker\main\ProfileMaker.class
+com\profile_maker\filters\MyFilter.class
+com\profile_maker\servlets\LoginServlet.class
+com\profile_maker\models\Registration.class
+com\profile_maker\dao\DbConnection.class
+com\profile_maker\dao\RegistrationDao.class
+com\profile_maker\services\RegistrationService.class

@@ -1,0 +1,9 @@
+D:\Projects\Java\Repository\ProfileMaker\src\main\java\com\profile_maker\models\Registration.java
+D:\Projects\Java\Repository\ProfileMaker\src\main\java\com\profile_maker\dao\DbConnection.java
+D:\Projects\Java\Repository\ProfileMaker\src\main\java\com\profile_maker\dao\RegistrationDao.java
+D:\Projects\Java\Repository\ProfileMaker\src\main\java\com\profile_maker\servlets\LoginServlet.java
+D:\Projects\Java\Repository\ProfileMaker\src\main\java\com\profile_maker\filters\MyFilter.java
+D:\Projects\Java\Repository\ProfileMaker\src\main\java\com\profile_maker\utils\ConfigLoader.java
+D:\Projects\Java\Repository\ProfileMaker\src\main\java\com\profile_maker\services\RegistrationService.java
+D:\Projects\Java\Repository\ProfileMaker\src\main\java\com\profile_maker\main\ProfileMaker.java
+D:\Projects\Java\Repository\ProfileMaker\src\main\java\com\profile_maker\servlets\RegistrationServlet.java
