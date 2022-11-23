@@ -5,6 +5,7 @@ import java.util.Properties;
 
 public class ConfigLoader {
 
+	// Sample comments here
 	public Properties getDbConfigs() throws IOException {
 		Properties properties = new Properties();
 		properties.load(this.getClass().getResourceAsStream("/config.properties"));
